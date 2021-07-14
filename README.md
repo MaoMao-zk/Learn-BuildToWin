@@ -2,4 +2,5 @@
 读《构建之法-现代软件工程》邹欣，整理笔记、课后答案等。
 
 目录：
-[第一章 - 概论](./Chapter1/README.md)
+* [第一章 - 概论](./Chapter1/README.md)
+* [第二章 - 个人技术与流程](./Chapter2/README.md)
