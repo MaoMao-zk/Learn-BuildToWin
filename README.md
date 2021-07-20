@@ -8,3 +8,5 @@
 * [第五章 - 团队和流程](./Chapter5/README.md)
 
 电子书 - [构建之法：现代软件工程 - 邹欣.pdf](./构建之法：现代软件工程%20-%20邹欣.pdf)
+
+课件 - [https://github.com/xinase/ASE](https://github.com/xinase/ASE)
