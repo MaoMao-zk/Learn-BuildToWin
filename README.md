@@ -8,6 +8,7 @@
 * [第五章 - 团队和流程](./Chapter5/README.md)
 * [第六章 - 敏捷流程](./Chapter6/README.md)
 * [第七章 - MSF](./Chapter7/README.md)
+* [第八章 - 需求分析](./Chapter8/README.md)
 
 电子书 - [构建之法：现代软件工程 - 邹欣.pdf](./构建之法：现代软件工程%20-%20邹欣.pdf)
 
