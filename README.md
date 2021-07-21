@@ -1,6 +1,8 @@
 # Learn-BuildToWin
 读《构建之法-现代软件工程》邹欣，整理笔记、课后答案等。
 
+TODO：需要完成一些章节的小结，目前基本只有回答问题的内容
+
 目录：
 * [第一章 - 概论](./Chapter1/README.md)
 * [第二章 - 个人技术与流程](./Chapter2/README.md)
@@ -9,6 +11,7 @@
 * [第六章 - 敏捷流程](./Chapter6/README.md)
 * [第七章 - MSF](./Chapter7/README.md)
 * [第八章 - 需求分析](./Chapter8/README.md)
+* [第九章 - 项目管理](./Chapter8/README.md)
 
 电子书 - [构建之法：现代软件工程 - 邹欣.pdf](./构建之法：现代软件工程%20-%20邹欣.pdf)
 
